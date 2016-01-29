@@ -6,3 +6,4 @@ Adding a line of text
 Merging changes manually
 
 Adding some lines without wanting to merge immediately
+Added line to be merged using the fetch command
