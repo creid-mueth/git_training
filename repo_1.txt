@@ -4,3 +4,5 @@ knowing another user pushed changes to the remote repo
 Adding a line of text
 
 Merging changes manually
+
+Adding some lines without wanting to merge immediately
